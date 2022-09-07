@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-Hosting site: https://netflix-arif.netlify.app
+Hosting site: https://netflix-arif112.netlify.app/
